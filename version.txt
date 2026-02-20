@@ -1,1 +1,1 @@
-1.0.0 https://github.com/alessandrotr/uo-danger-client/releases/download/v1.0.0/client.zip https://github.com/alessandrotr/uo-danger-client/releases/download/v1.0.0/client.zip
+1.0.1 https://github.com/alessandrotr/uo-danger-client/releases/download/v1.0.1/client.zip https://github.com/alessandrotr/uo-danger-client/releases/download/v1.0.1/update.zip
