@@ -1,1 +1,1 @@
-1.0.0 https://github.com/alessandrotr/uo-danger-client/releases/download/launcher-v1.1.0/UoDangerLauncher.exe
+1.0.1 https://github.com/alessandrotr/uo-danger-client/releases/download/launcher-v1.0.0/UoDangerLauncher.exe
